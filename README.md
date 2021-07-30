@@ -12,7 +12,7 @@
   <img align="center" alt="angelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="angelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="angelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="angelo-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="angelo-yoda" src="https://media2.giphy.com/media/fUN9Jal2W57RqQXL2s/200w.gif?cid=82a1493bb8i0ezag3528houuljpfetail0bx64zu3wkxppaa&rid=200w.gif&ct=g">
 </div>
   
   ##
