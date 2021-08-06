@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Angelo Aparecido do Nascimento
+## Oiii! Eu sou Angelo Aparecido do Nascimento
  <div>
   <a href="https://github.com/AngeloApNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloApNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
